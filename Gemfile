@@ -41,3 +41,6 @@ group :development, :test do
   gem 'database_cleaner'
   gem 'quiet_assets'
 end
+
+gem 'rubocop'
+gem 'mutant-rspec'
