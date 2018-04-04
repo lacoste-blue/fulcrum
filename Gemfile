@@ -40,7 +40,7 @@ group :development, :test do
   gem 'poltergeist'
   gem 'database_cleaner'
   gem 'quiet_assets'
+  gem 'rubycritic'
+  gem 'rubocop'
+  gem 'mutant-rspec'
 end
-
-gem 'rubocop'
-gem 'mutant-rspec'
