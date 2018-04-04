@@ -1,2 +1,5 @@
 --color
 --require spec_helper
+--format documentation
+--format RspecYahFormatter --out rspec_html_reports/overview.html
+--format html --out rspec.html
