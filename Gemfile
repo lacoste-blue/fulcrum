@@ -42,6 +42,7 @@ group :development, :test do
   gem 'quiet_assets'
   gem 'rubycritic'
   gem 'rubocop'
+  gem 'mutant'
   gem 'mutant-rspec'
   gem 'rspec_yah_formatter'
 end
