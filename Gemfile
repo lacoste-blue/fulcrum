@@ -43,4 +43,5 @@ group :development, :test do
   gem 'rubycritic'
   gem 'rubocop'
   gem 'mutant-rspec'
+  gem 'rspec_yah_formatter'
 end
